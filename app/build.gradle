@@ -1,4 +1,4 @@
 plugins { id 'com.android.application' }
 android { namespace 'com.kai.automusic'; compileSdk 35
- defaultConfig { applicationId 'com.kai.automusic'; minSdk 23; targetSdk 32; versionCode 6; versionName '1.5' }
+ defaultConfig { applicationId 'com.kai.automusic'; minSdk 23; targetSdk 32; versionCode 7; versionName '1.6' }
 }
